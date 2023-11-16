@@ -21,8 +21,8 @@ couper lignes-->
 
 ## Schéma
 
-|Action |Commande|
-|-- |-- |
-|Créer un schéma .xsd à partir d'un document| Document - schéma - convertir/générer le schéma|
-[Associer un schéma au document| Document - schéma - Associer un schéma[|
+|Action |Commande|Icône|
+|-- |-- |-- |
+|Créer un schéma .xsd à partir d'un document| Document - schéma - convertir/générer le schéma||
+|Associer un schéma au document| Document - schéma - Associer un schéma|Épingle rouge|
 
