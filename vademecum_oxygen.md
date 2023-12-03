@@ -7,12 +7,12 @@ couper lignes-->
 
 ## Balisage
 
-|Action |Commande |Raccourci prédéfini|
-|-- |-- |-- |
+|Action |Commande |Raccourci prédéfini|Icône|
+|-- |-- |-- |-- |
 |Ajouter une balise|Document-Balisage-encadrer par des balises|Ctl-E|
 |Ajouter la même balise|Document-Balisage-encadrer par|Ctl-barre oblique|
 |Scinder en deux un élément|Document-Balisage-Scinder l'élément|Alt-Maj-D|
-|Indenter/clarifier la mise en forme|Document-source-formater et indenter l'élément|Ctl-Maj-I|
+|Indenter/clarifier la mise en forme|Document-source-formater et indenter |Ctl-Maj-P|Icône bleu représentant une indentation|
 
 
 ## Arborescence

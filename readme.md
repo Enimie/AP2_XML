@@ -55,6 +55,13 @@ Lou BURNARD, [Qu'est-ce que la Text encoding initiative,](https://books.openedit
 
 Lou BURNARD, [XSLT pour les nuls](http://www.bvh.univ-tours.fr/actualites/2012.01_stage_tei/12.01.24_xslt-intro_LBurnard.pdf)
 
-## Éditions numériques à consulter
+## Éditions numériques à consulter et manuels d'encodage
+
+Nicole DUFOURNAUD, Valérie GRATSAC LEGENDRE, *Manuel d’encodage XML-TEI - édition numérique de manuscrits baroques : Recommandations pour une application TEI. 2012*, [HAL](https://hal.science/hal-00718043/document)
+
+Nicole DUFOURNAUD *et alii*, *Manuel d'encodage TEI - Renaissance et temps modernes*, [http://www.bvh.univ-tours.fr/XML-TEI/ManuelWeb/Manuel_TEI_BVH.html](http://www.bvh.univ-tours.fr/XML-TEI/ManuelWeb/Manuel_TEI_BVH.html)
+
+*Les cours d'Antoine Desgodets*, édités sous la direction de Robert Carvais [http://www.desgodets.net/](http://www.desgodets.net/); pour les choix d'encodage, voir [ici](http://www.desgodets.net/edition-des-cours/model)
+
 
 ## Outils
