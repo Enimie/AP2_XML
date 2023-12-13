@@ -8,10 +8,10 @@
     <xsl:template match="tei:persName">
         <tr>
             <td>
-                <xsl:value-of select="."/>
+                <xsl:value-of select="XXX"/>
             </td>
             <td>
-                <xsl:value-of select="../@xml:id"/>
+                <xsl:value-of select="XXX"/>
             </td>
         </tr>
     </xsl:template>
