@@ -18,11 +18,21 @@ Ce cours est inspiré:
 | 7 décembre 2023     | 14h-16h  | TEI |
 | 14 décembre 2023     | 14h-16h  | EAD (présentation) -- XPath et XSLT |
 
+## Devoir (à rendre le 01/02/2024)
+Le devoir peut être individuel ou fait en groupe (jusqu'à 3 personnes)
 
+1. **(/14)** Encoder selon la norme XML-TEI: 
++ soit un texte de son choix (environ 500-600 mots), soit le serment de Strasbourg (fichier `transcription_serment_strasbourg`).
++  Vous devrez encoder les métadonnées et trouver des balises qui vous sembleront appropriées au texte choisi. 
++ Pour le serment de Strasbourg, encodez également la traduction; trouvez comment associer un bloc de texte au bloc correspondant dans la traduction
+2. **(/4)** Créer, au moyen du site Roma, un ODD correspondant aux balises utilisées. Il faudra rendre:
++ (/1) le schéma Relax NG que vous aurez obtenu
++ (/1) la documentation générée automatiquement à partir de l'ODD
++ (/2) un court texte expliquant les principaux choix que vous aurez fait.
+3. **(/2)** En vous appuyant sur les exercices du cours 5, créer un fichier de transformation XSLT permettant:
++ de mettre en vis-à-vis (c'est-à-dire dans deux colonnes d'un tableau) la version en langue romane et la version en langue tudesque du serment
++ OU si vous avez choisi un autre texte, une transformation de votre choix comportant au moins deux templates (mettre alors un bref commentaire pour expliquer ce que vous avez voulu obtenir)
 
-## Exemple d'éditions numériques en XML/TEI
-
- sermones ; bibliothèques virtuelles humanistes ; ecodices ; HIMANIS
 
 ## Bibliographie et ressources 
 
@@ -77,6 +87,7 @@ Nicole DUFOURNAUD *et alii*, *Manuel d'encodage TEI - Renaissance et temps moder
 ## Outils TEI
 
 
-[TEI Critical Apparatus Toolbox](http://teicat.huma-num.fr/) Tester son code, éditer son apparat, annoter une image..
+[TEI Critical Apparatus Toolbox](http://teicat.huma-num.fr/) Tester son code, éditer son apparat, annoter une image,...
+
 [TEI publisher](https://teipublisher.com/exist/apps/tei-publisher/index.html) Outil pour éditer ses fichiers TEI. Se connecter en tant que tei-demo pour tester
 
