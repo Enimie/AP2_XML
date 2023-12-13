@@ -19,7 +19,7 @@
    <text>
       <body>
          <div1 type="chapitre" xml:id="I">
-            <head> CHAPITRE PREMIER. </head>
+            <head> Chapitre premier </head>
             <div2 type="paragraphe" xml:id="I1">
                <head> Divers moyens mènent à même fin. </head>
                <p xml:id="I1a">La soumission vous concilie d’ordinaire ceux que vous avez offensés
@@ -30,7 +30,7 @@
                   constance et la résolution, qui sont des moyens tout contraires, ont quelquefois
                   produit le même résultat.</p>
                <p xml:id="I1b">
-                  <persName xml:id="edouard">Édouard, prince de <placeName>Galles</placeName></persName>, celui-là même
+                  <persName xml:id="edouard">Edouard, prince de <placeName>Galles</placeName></persName>, celui-là même
                   qui, si longtemps, fut régent de notre province de <placeName>Guyenne</placeName>,
                   personnage dont les actes et la fortune ont maintes fois témoigné de beaucoup de
                   grandeur d’âme, s’étant emparé de vive force de <placeName>Limoges</placeName>,
