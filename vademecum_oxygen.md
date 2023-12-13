@@ -25,4 +25,8 @@ couper lignes-->
 |-- |-- |-- |
 |Créer un schéma .xsd à partir d'un document| Document - schéma - convertir/générer le schéma||
 |Associer un schéma au document| Document - schéma - Associer un schéma|Épingle rouge|
+|Associer une feuille de transformation au document| Document - Document XLM - Associer une feuille de style|Épingle verte|
+|Choisir comment le résulta apparaîtra (dans/hors de l'éditeur)| Document - Document XLM - Configurer le scenario de transformation|Clef à molette|
+|Appliquer une feuille de transormation XSLT|Document - transformtion -Appliquer le/les scénarios de transformation | trinngle rouge|
+
 
