@@ -12,13 +12,14 @@ Ce cours est inspiré:
 
 | Date | Horaires | Programme |
 | ---- | -------- | --------- |
-| 9 novembre 2023  | 14h-16h | XML: introduction| 
-| 16 novembre 2023 | 14h-16h | Schémas  XML |
-| 23 novembre 2023 | 14h-16h | TEI    |
-| 7 décembre 2023     | 14h-16h  | TEI |
-| 14 décembre 2023     | 14h-16h  | EAD (présentation) -- XPath et XSLT |
+| 7 novembre 2024  | 9h-11h | XML: introduction| 
+| 14 novembre 2024 | 9h-11h | Schémas  XML |
+| 21 novembre 2024 | 9h-11h | TEI    |
+| 5 décembre 2024     | 9h-11h  | TEI |
+| 12 décembre 2024     | 9h-11h  | EAD (présentation) -- XPath et XSLT |
 
-## Devoir (à rendre le 01/02/2024)
+<!--
+ ## Devoir (à rendre le 01/02/2024)
 Le devoir peut être individuel ou fait en groupe (jusqu'à 3 personnes)
 
 1. **(/14)** Encoder selon la norme XML-TEI: 
@@ -32,7 +33,7 @@ Le devoir peut être individuel ou fait en groupe (jusqu'à 3 personnes)
 3. **(/2)** En vous appuyant sur les exercices du cours 5, créer un fichier de transformation XSLT permettant:
 + de mettre en vis-à-vis (c'est-à-dire dans deux colonnes d'un tableau) la version en langue romane et la version en langue tudesque du serment
 + OU si vous avez choisi un autre texte, une transformation de votre choix comportant au moins deux templates (mettre alors un bref commentaire pour expliquer ce que vous avez voulu obtenir)
-
+-->
 
 ## Bibliographie et ressources 
 
