@@ -20,17 +20,20 @@ Que veut dire:
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
-<document>
-    <titre>L’Adieu</titre>
-    <poeme>
-        <vers rime="A" num="1">J’ai cueilli ce brin de bruyère</vers>
-        <vers rime="B" num="2">L’automne est morte souviens-t’en </vers>
-        <vers rime="A" num="3">Nous ne nous verrons plus sur terre</vers>
-        <vers rime="A" num="4">Odeur du temps brin de bruyère </vers>
-        <vers rime="B" num="5">Et souviens-toi que je t’attends</vers>
-    </poeme>
-    <numeroPage num="70"/>
-</document>
+<racine>
+    <metaDonnees>
+        <sourceGallica> https://gallica.bnf.fr/ark:/12148/bpt6k1083760/f70.item</sourceGallica>
+        <auteur>Guillaume Apollinaire</auteur>
+        <titre>L’Adieu</titre>
+    </metaDonnees>
+    <textePoeme>
+        <vers n="1" rime="A">J’ai cueilli ce brin de bruyère</vers>
+        <vers n="2" rime="B">L’automne est morte souviens-t’en </vers>
+        <vers n="3" rime="A">Nous ne nous verrons plus sur terre</vers>
+        <vers n="4" rime="A">Odeur du temps brin de bruyère </vers>
+        <vers n="5" rime="B">Et souviens-toi que je t’attends</vers>
+    </textePoeme>
+</racine>
 ```
 
 2. Créer un nouveau document, lui associer ce schéma, y encoder le poème *Automne*
@@ -54,3 +57,24 @@ Dans le brouillard s’en vont deux silhouettes grises
 Utiliser `<xs:choice>` à la place de `<xs:sequence>` et rajouter l'élément `<strophe>`
 6. vérifier la validité des deux documents avec ce nouveau schéma
 7. observer dans oXygen l'arbre du schéma (cliquer sur `Design`) 
+
+## Exercice 3: utiliser un schéma: la TEI
+
+Encoder avec les balises `<sp>`, `<speaker>` et `<l>` le texte suivant:
+
+```
+Don Diègue
+Ô rage! ô désespoir! ô vieillesse ennemie!
+```
+
+## Exercice 4: les métadonnées
+
+Encoder de façon simplifiée les métadonnées pour un document TEI dont les références seraient:
+
+```
+Édition numérique du Capitulaire de Théodulf
+Dans le cadre du cours d'initiation à XML de l'EnC
+D'après l'édition de Peter Brommer (MGH, Capitula episcoporum, I) 
+```	
+
+Éléments à utiliser au sein des trois éléments obligatoires du `<fileDesc>`: `<title>`, `<author>`, `<p>`, `<bibl>`
